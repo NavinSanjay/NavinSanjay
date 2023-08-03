@@ -3,7 +3,7 @@
 🌱 I’m currently persuing Data Analysis/Data Science
 
 ### Data Science/Data Analyst Portfolio:
-https://navinsanjay.github.io/
+https://navin-sanjay-portfolio.netlify.app/
 
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
